@@ -1,7 +1,7 @@
 {
   "title": "KakaNguyen's Blog",
   "url": "https://kakanguyen.com",
-  "subtitle": "System Engineer. A man with a wife and 2 childrens.",
+  "subtitle": "System Engineer",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
@@ -24,7 +24,7 @@
   "author": {
     "name": "Kaka Nguyen (Khoa Nguyen)",
     "photo": "/photo.jpg",
-    "bio": "System Engineer. A man with a wife and 2 childrens.",
+    "bio": "System Engineer",
     "contacts": {
       "rss": "",
       "email": "",
@@ -34,6 +34,7 @@
       "twitter": "#",
       "linkedin": "#",
       "instagram": "#",
+      "mastodon": "#",
       "line": "",
       "weibo": "",
       "gitlab": "",
